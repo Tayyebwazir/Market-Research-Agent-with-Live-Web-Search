@@ -3,7 +3,7 @@
 
 This project is an AI-powered market research assistant built with Streamlit, Groq LLM, and Tavily Web Search. It automates competitor analysis, extracts key product features, estimates price ranges, and generates strategic insights in the form of a market research report.
 
-🚀 Features
+#Features
 
 🌐 Live Web Search using Tavily API to fetch the latest product information.
 
@@ -15,7 +15,7 @@ This project is an AI-powered market research assistant built with Streamlit, Gr
 
 🔧 Flexible Product Analysis – works for smartwatches, iPhones, laptops, and other categories.
 
-🛠️ Tech Stack
+#🛠️Tech Stack
 
 Streamlit
  – UI framework
@@ -32,7 +32,7 @@ Tavily Search API
 Python dotenv
  – environment variable management
 
-⚡ How It Works
+#⚡How It Works
 
 Enter search queries for your target product (e.g., best smartwatches 2025).
 
